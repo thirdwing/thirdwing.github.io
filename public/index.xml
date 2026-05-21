@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KK 博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on KK 博客</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2026 00:27:17 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从这次创业的失败开始记录</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 21 May 2026 00:27:17 -0700</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;基本上确认了这次创业失败了，也终于有时间来仔细想想都犯过哪些错误，以后尽量避免。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
